@@ -1,0 +1,26 @@
+/* ☛TODO: CSS Reset - Simple Version*/
+* {
+    margin: 0px;
+    padding: 0px;
+    border-spacing: 0;
+    border: 0;
+    line-height: 1;
+    list-style: none;
+    vertical-align: baseline;
+    text-decoration: none;
+    /* font: inherit; */
+    font-size: 100%;
+    font-family: microsoft JhengHei;
+    box-sizing: border-box;
+}
+
+a {
+    color: currentColor;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    vertical-align: top;
+    border-style: none;
+}
